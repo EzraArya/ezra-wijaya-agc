@@ -304,7 +304,6 @@ MonoBehaviour:
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
-    m_OverlaysVisible: 1
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -326,14 +325,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Binus\AGATE\Project\Project Pertama - Ezra Wijaya
+  m_LastProjectPath: C:\Users\HP\OneDrive\Documents\GitHub\ezra-wijaya-agc
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0c5b0000
-    m_LastClickedID: 23308
-    m_ExpandedIDs: 000000000c5b000000ca9a3bffffff7f
+    m_SelectedIDs: bc570000
+    m_LastClickedID: 22460
+    m_ExpandedIDs: 00000000bc57000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000bc570000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -445,7 +444,6 @@ MonoBehaviour:
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
-    m_OverlaysVisible: 1
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
   m_PreviewResizer:
@@ -487,13 +485,12 @@ MonoBehaviour:
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
-    m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 34fbffff
+      m_ExpandedIDs: fafaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -765,7 +762,6 @@ MonoBehaviour:
       id: Scene View/Tilemap Palette Helper
       index: 12
       layout: 4
-    m_OverlaysVisible: 1
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
   m_Gizmos: 1
   m_OverrideSceneCullingMask: 6917529027641081856
@@ -776,9 +772,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.2279902, y: -0.11479139, z: -5.4419556}
+    m_Target: {x: 7.1593184, y: -2.6447215, z: -4.7573943}
     speed: 2
-    m_Value: {x: 1.2279902, y: -0.11479139, z: -5.4419556}
+    m_Value: {x: 7.1593184, y: -2.6447215, z: -4.7573943}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -825,13 +821,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.34854928, y: 0.19939542, z: -0.076150216, w: -0.91266066}
+    m_Target: {x: -0.087025106, y: -0.64221436, z: 0.07373273, w: -0.757988}
     speed: 2
-    m_Value: {x: -0.34991902, y: 0.19928163, z: -0.076449476, w: -0.9121398}
+    m_Value: {x: -0.086914636, y: -0.64335227, z: 0.073863365, w: -0.7570258}
   m_Size:
     m_Target: 4.1693087
     speed: 2
-    m_Value: 4.3657684
+    m_Value: 4.1693087
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -884,7 +880,6 @@ MonoBehaviour:
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
-    m_OverlaysVisible: 1
   m_SerializedViewNames: []
   m_SerializedViewValues: []
   m_PlayModeViewName: GameView
@@ -977,4 +972,3 @@ MonoBehaviour:
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
-    m_OverlaysVisible: 1
